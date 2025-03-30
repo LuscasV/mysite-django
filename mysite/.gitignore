@@ -10,8 +10,14 @@
 Thumbs.db
 
 # Ignorar arquivos de ambiente
+env
+/env/
+.env
+./env
+./env/
+../env/
 ..env
-venv
+../env
 
 # Ignorar arquivos de dependências do Python
 __pycache__/
