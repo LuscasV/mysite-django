@@ -1,0 +1,21 @@
+# Ignorar arquivos de log
+*.log
+
+# Ignorar diretórios de compilação
+/build/
+/dist/
+
+# Ignorar arquivos de configuração do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de ambiente
+..env
+venv
+env
+./env/
+
+
+# Ignorar arquivos de dependências do Python
+__pycache__/
+*.pyc
