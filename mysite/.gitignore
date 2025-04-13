@@ -18,4 +18,5 @@ env
 
 # Ignorar arquivos de dependências do Python
 __pycache__/
+.pytest_cache
 *.pyc
